@@ -1,0 +1,8 @@
+anaconda
+================
+spyder 3.6
+opencv 3.x
+scikit
+matplotlib v3.1.1
+numpy
+sklearn
